@@ -66,9 +66,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # User management System
 
 A Users Management CRUD Package that includes all necessary routes, views, models, and controllers for a user management dashboard and associated pages for managing Laravels built in user scaffolding. Easily start creating, updating, editing, and deleting users in minutes with minimal setup required; Easily search all users, helpful for large user bases.
-Routes:
-<!-- resource route -->
-- user-management
-- user-management.store
-- user-management.update
-- user-management.destroy
+![Screenshot 2022-09-14 073118](https://user-images.githubusercontent.com/75261897/190044496-2953d006-dedd-4f71-a118-b7ea6d16b759.png)
+
+
+
